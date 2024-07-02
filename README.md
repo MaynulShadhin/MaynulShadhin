@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/Hpkm2vx/github-header-image.png)
+![MasterHead](https://img.freepik.com/free-vector/business-people-working-laptop-development_1262-18907.jpg?w=1060&t=st=1719918200~exp=1719918800~hmac=cce8cba06510a8b942411c327c9fc2675772217166f17dd5be43f86b533bc4c0)
 <h1 align="center">Hi 👋, I'm Maynul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
